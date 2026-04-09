@@ -1,0 +1,16 @@
+📜 Dungeon Master RPG: Startup Guide
+Prerequisites
+Before running the game, always ensure the Ollama application is running in the background. You should see the little white Llama icon in your Windows system tray (bottom right corner of your screen, near the clock).
+
+Method 1: The Standard Terminal Launch
+If you want to boot the game manually through your terminal, follow these steps:
+
+Step 1: Open Windows PowerShell or Command Prompt.
+Step 2: Navigate to your game's folder by typing the following command and hitting Enter:
+
+PowerShell
+cd C:\Users\adi12\Desktop\ai_rpg
+Step 3: Launch the Python script by typing this command and hitting Enter:
+
+PowerShell
+python dungeon_master.py
